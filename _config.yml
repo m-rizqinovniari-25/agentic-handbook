@@ -22,10 +22,6 @@ kramdown:
   math_engine: mathjax
   parse_block_html: true
 
-# Mermaid diagram support via kramdown-mermaid
-kramdown-mermaid:
-  version: "10.6.1"
-
 # Just the Docs Configuration
 just_the_docs:
   search_enabled: true
