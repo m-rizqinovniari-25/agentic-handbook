@@ -1,14 +1,14 @@
 ---
-title: "Deep Dive into Agentic AI: Concepts, Design, and Real-World Applications"
+title: "Agentic AI: Foundations, Design, and Real-World Applications"
 layout: home
 permalink: /
 ---
 
-# Deep Dive into Agentic AI: Concepts, Design, and Real-World Applications
+# Agentic AI: Foundations, Design, and Real-World Applications
 
-This learning material provides an in-depth exploration of Agentic AI, a rapidly evolving paradigm where artificial intelligence systems are designed to act autonomously, pursue goals, make decisions, and adapt to dynamic environments. The content goes beyond surface-level definitions to examine how agentic behaviors emerge from modern AI systems, especially those powered by large language models, planning algorithms, and tool-using capabilities.
+This comprehensive learning material explores Agentic AI—AI systems capable of autonomous goal setting, decision-making, and action execution within dynamic environments. The material is designed to help learners move from foundational concepts to advanced design and implementation practices, with a strong emphasis on reasoning, planning, tools use, and autonomy.
 
-Aimed at intermediate learners, this material balances theoretical foundations with practical design and implementation considerations. Learners will progress from understanding core principles and historical context to designing, evaluating, and deploying agentic AI systems responsibly. By the end, readers will be equipped to reason critically about agent autonomy, control, safety, and real-world impact across multiple domains.
+Through in-depth chapters, learners will understand how Agentic AI differs from traditional AI systems, how agent architectures are built, and how such systems are deployed, evaluated, and governed in real-world scenarios. The content balances theory, system design, and practical considerations, making it suitable for professionals and advanced learners seeking a deep understanding of modern AI agents.
 
 ## Get Started
 
@@ -16,21 +16,22 @@ Aimed at intermediate learners, this material balances theoretical foundations w
 
 ## About This Handbook
 
-The Deep Dive into Agentic AI: Concepts, Design, and Real-World Applications is a comprehensive guide designed for learners seeking to understand and master this topic.
+The Agentic AI: Foundations, Design, and Real-World Applications is a comprehensive guide designed for learners seeking to understand and master this topic.
 
 ### What You'll Learn
 
 This handbook covers everything you need to know:
 
-* **Part I: Foundations and Core Concepts of Agentic AI** - This part introduces the conceptual and theoretical foundations of Agentic AI. It clarifies what makes an AI system agentic, traces its intellectual roots, and explains the core components that enable autonomous goal-directed behavior. The chapters establish a shared vocabulary and mental models necessary for deeper technical and practical discussions in later parts.
-* **Part II: Design and Implementation of Agentic AI Systems** - This part focuses on how Agentic AI systems are designed and built in practice. It connects conceptual understanding with modern architectures, frameworks, and workflows. Learners will explore how large language models enable agentic behavior and how to structure, orchestrate, and evaluate intelligent agents in applied settings.
-* **Part III: Advanced Topics, Safety, and Real-World Implications** - This part addresses advanced considerations surrounding Agentic AI, including multi-agent coordination, alignment, ethics, and future societal impact. It emphasizes responsible development and deployment while encouraging learners to think critically about long-term consequences and emerging trends.
+* **Part I: Foundations and Core Concepts of Agentic AI** - This part establishes the conceptual and theoretical foundations of Agentic AI. It covers the historical evolution, core definitions, underlying cognitive principles, and fundamental components that differentiate agentic systems from conventional AI models.
+* **Part II: Design, Architecture, and Implementation of Agentic AI** - This part focuses on how Agentic AI systems are designed and built. It explores agent architectures, memory systems, tool integration, multi-agent coordination, and practical engineering challenges in real-world implementations.
+* **Part III: Applications, Ethics, and the Future of Agentic AI** - This part explores how Agentic AI is applied across industries, addresses ethical and governance challenges, and looks ahead to future research directions and societal implications of increasingly autonomous AI systems.
 
 ### Who Should Read This
 
-* **AI practitioners and engineers** - Description
-* **Product designers and technical leads** - Description
-* **Researchers and advanced students interested in autonomous AI systems** - Description
+* **AI engineers** - Description
+* **Software architects** - Description
+* **Technical product managers** - Description
+* **Researchers and advanced students** - Description
 
 ## License
 
