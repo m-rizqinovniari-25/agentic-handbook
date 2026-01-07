@@ -4,10 +4,10 @@ description: "This learning material provides an in-depth exploration of Agentic
 
 Designed for intermediate-level learners, this content bridges theoretical foundations and practical implementation. Learners will gain a solid understanding of how agentic systems are structured, how they differ from reactive or purely model-based AI, and how they are being applied across industries. The material emphasizes design trade-offs, ethical considerations, and future directions to prepare learners for both development and critical evaluation of Agentic AI systems."
 url: "https://m-rizqinovniari-25.github.io"
-baseurl: "agentic-handbook"
+baseurl: "/agentic-handbook"
 
 # Just the Docs Theme
-theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
