@@ -6,13 +6,13 @@ permalink: /
 
 # Deep Dive into Agentic AI: Concepts, Design, and Real-World Applications
 
-This learning material provides an in-depth exploration of Agentic AI, a paradigm of artificial intelligence systems capable of autonomous goal-setting, planning, decision-making, and action execution. The material goes beyond traditional AI and machine learning concepts to focus on agents that can reason, adapt, and operate in dynamic environments with minimal human intervention.
+This learning material provides an in-depth exploration of Agentic AI, a rapidly evolving paradigm where artificial intelligence systems are designed to act autonomously, pursue goals, make decisions, and adapt to dynamic environments. The content goes beyond surface-level definitions to examine how agentic behaviors emerge from modern AI systems, especially those powered by large language models, planning algorithms, and tool-using capabilities.
 
-Designed for intermediate-level learners, this content bridges theoretical foundations and practical implementation. Learners will gain a solid understanding of how agentic systems are structured, how they differ from reactive or purely model-based AI, and how they are being applied across industries. The material emphasizes design trade-offs, ethical considerations, and future directions to prepare learners for both development and critical evaluation of Agentic AI systems.
+Aimed at intermediate learners, this material balances theoretical foundations with practical design and implementation considerations. Learners will progress from understanding core principles and historical context to designing, evaluating, and deploying agentic AI systems responsibly. By the end, readers will be equipped to reason critically about agent autonomy, control, safety, and real-world impact across multiple domains.
 
 ## Get Started
 
-[View Table of Contents]({ "/table-of-contents" | relative_url })
+[View Table of Contents]({{ "/table-of-contents" | relative_url }})
 
 ## About This Handbook
 
@@ -22,15 +22,15 @@ The Deep Dive into Agentic AI: Concepts, Design, and Real-World Applications is 
 
 This handbook covers everything you need to know:
 
-* **Part I: Foundations and Core Concepts of Agentic AI** - This part establishes the conceptual and historical foundations of Agentic AI. It introduces the notion of agency in artificial systems, core components of intelligent agents, and situates Agentic AI within the broader AI landscape.
-* **Part II: Design, Implementation, and Optimization of Agentic AI** - This part focuses on how Agentic AI systems are designed and built. It covers architectural patterns, integration with models and tools, memory systems, and optimization techniques for robust real-world performance.
-* **Part III: Applications, Ethics, and Future Directions of Agentic AI** - This part examines how Agentic AI is applied in real-world contexts, along with ethical, safety, and governance considerations. It also explores future trends and the evolving role of agentic systems.
+* **Part I: Foundations and Core Concepts of Agentic AI** - This part introduces the conceptual and theoretical foundations of Agentic AI. It clarifies what makes an AI system agentic, traces its intellectual roots, and explains the core components that enable autonomous goal-directed behavior. The chapters establish a shared vocabulary and mental models necessary for deeper technical and practical discussions in later parts.
+* **Part II: Design and Implementation of Agentic AI Systems** - This part focuses on how Agentic AI systems are designed and built in practice. It connects conceptual understanding with modern architectures, frameworks, and workflows. Learners will explore how large language models enable agentic behavior and how to structure, orchestrate, and evaluate intelligent agents in applied settings.
+* **Part III: Advanced Topics, Safety, and Real-World Implications** - This part addresses advanced considerations surrounding Agentic AI, including multi-agent coordination, alignment, ethics, and future societal impact. It emphasizes responsible development and deployment while encouraging learners to think critically about long-term consequences and emerging trends.
 
 ### Who Should Read This
 
 * **AI practitioners and engineers** - Description
-* **Graduate students in computer science or related fields** - Description
-* **Product managers and technical leaders working with AI systems** - Description
+* **Product designers and technical leads** - Description
+* **Researchers and advanced students interested in autonomous AI systems** - Description
 
 ## License
 

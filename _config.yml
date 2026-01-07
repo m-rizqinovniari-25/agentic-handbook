@@ -1,6 +1,6 @@
 # Jekyll Configuration
 title: "Deep Dive into Agentic AI: Concepts, Design, and Real-World Applications"
-description: "This learning material provides an in-depth exploration of Agentic AI, a paradigm of artificial intelligence systems capable of autonomous goal-setting, planning, decision-making, and action execution. The material goes beyond traditional AI and machine learning concepts to focus on agents that can reason, adapt, and operate in dynamic environments with minimal human intervention.
+description: "This learning material provides an in-depth exploration of Agentic AI, a rapidly evolving paradigm where artificial intelligence systems are designed to act autonomously, pursue goals, make decisions, and adapt to dynamic environments. The content goes beyond surface-level definitions to examine how agentic behaviors emerge from modern AI systems, especially those powered by large language models, planning algorithms, and tool-using capabilities.
 
 Designed for intermediate-level learners, this content bridges theoretical foundations and practical implementation. Learners will gain a solid understanding of how agentic systems are structured, how they differ from reactive or purely model-based AI, and how they are being applied across industries. The material emphasizes design trade-offs, ethical considerations, and future directions to prepare learners for both development and critical evaluation of Agentic AI systems."
 url: "https://m-rizqinovniari-25.github.io"
@@ -12,6 +12,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax
+  parse_block_html: true
 
 # Just the Docs Configuration
 just_the_docs:

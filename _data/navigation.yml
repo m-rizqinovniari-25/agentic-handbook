@@ -3,41 +3,44 @@
 - title: Table of Contents
   url: /table-of-contents
 - children:
-  - title: 'Chapter 1: Understanding Agentic AI and Artificial Agency'
+  - title: 'Chapter 1: What Is Agentic AI? Definitions, Scope, and Motivation'
     url: /part-i-foundations/chapter-1-agentic-ai-overview/
-  - title: 'Chapter 2: Historical Evolution of Intelligent Agents'
-    url: /part-i-foundations/chapter-2-history-evolution/
+  - title: 'Chapter 2: Historical Evolution of Intelligent Agents and Autonomy'
+    url: /part-i-foundations/chapter-2-historical-context/
   - title: 'Chapter 3: Core Components of Agentic AI Systems'
     url: /part-i-foundations/chapter-3-core-components/
-  - title: 'Chapter 4: Agents and Their Operating Environments'
-    url: /part-i-foundations/chapter-4-agent-environments/
-  - title: 'Chapter 5: Goals, Planning, and Decision-Making in Agentic AI'
-    url: /part-i-foundations/chapter-5-goals-plans/
+  - title: 'Chapter 4: Types of Agents and Levels of Autonomy'
+    url: /part-i-foundations/chapter-4-agent-types/
+  - title: 'Chapter 5: Agentic Reasoning, Goals, and Decision-Making'
+    url: /part-i-foundations/chapter-5-agentic-thinking/
+  has_children: true
   title: 'Part I: Foundations and Core Concepts of Agentic AI'
   url: /part-i-foundations/
 - children:
-  - title: 'Chapter 6: Architectural Patterns for Agentic AI Systems'
-    url: /part-ii-design-implementation/chapter-6-agent-architectures/
-  - title: 'Chapter 7: Integrating Large Language Models into Agentic AI'
-    url: /part-ii-design-implementation/chapter-7-llm-integration/
-  - title: 'Chapter 8: Memory, Learning, and Adaptation in Agents'
-    url: /part-ii-design-implementation/chapter-8-memory-learning/
-  - title: 'Chapter 9: Tool Use, APIs, and External Interactions'
-    url: /part-ii-design-implementation/chapter-9-tool-use/
-  - title: 'Chapter 10: Evaluating and Optimizing Agentic AI Systems'
-    url: /part-ii-design-implementation/chapter-10-evaluation-optimization/
-  title: 'Part II: Design, Implementation, and Optimization of Agentic AI'
+  - title: 'Chapter 6: Large Language Models as Agentic Foundations'
+    url: /part-ii-design-implementation/chapter-6-llm-agents/
+  - title: 'Chapter 7: Agent Architectures and System Design Patterns'
+    url: /part-ii-design-implementation/chapter-7-agent-architectures/
+  - title: 'Chapter 8: Memory, Context, and Long-Term Knowledge in Agents'
+    url: /part-ii-design-implementation/chapter-8-memory-context/
+  - title: 'Chapter 9: Tool Use, APIs, and Environment Interaction'
+    url: /part-ii-design-implementation/chapter-9-tools-environments/
+  - title: 'Chapter 10: Evaluating and Debugging Agentic AI Behavior'
+    url: /part-ii-design-implementation/chapter-10-evaluation/
+  has_children: true
+  title: 'Part II: Design and Implementation of Agentic AI Systems'
   url: /part-ii-design-implementation/
 - children:
-  - title: 'Chapter 11: Real-World Applications of Agentic AI'
-    url: /part-iii-applications-ethics/chapter-11-real-world-applications/
-  - title: 'Chapter 12: Multi-Agent Systems and Collective Intelligence'
-    url: /part-iii-applications-ethics/chapter-12-multi-agent-systems/
-  - title: 'Chapter 13: Ethics, Safety, and Governance in Agentic AI'
-    url: /part-iii-applications-ethics/chapter-13-ethics-safety/
-  - title: 'Chapter 14: Human-Agent Collaboration and Interaction'
-    url: /part-iii-applications-ethics/chapter-14-human-ai-collaboration/
-  - title: 'Chapter 15: Future Directions and Emerging Trends in Agentic AI'
-    url: /part-iii-applications-ethics/chapter-15-future-trends/
-  title: 'Part III: Applications, Ethics, and Future Directions of Agentic AI'
-  url: /part-iii-applications-ethics/
+  - title: 'Chapter 11: Multi-Agent Systems and Collective Intelligence'
+    url: /part-iii-advanced-implications/chapter-11-multi-agent/
+  - title: 'Chapter 12: Alignment, Control, and Safety in Agentic AI'
+    url: /part-iii-advanced-implications/chapter-12-alignment-safety/
+  - title: 'Chapter 13: Ethics, Governance, and Responsible Deployment'
+    url: /part-iii-advanced-implications/chapter-13-ethics-governance/
+  - title: 'Chapter 14: Agentic AI Use Cases Across Industries'
+    url: /part-iii-advanced-implications/chapter-14-industry-use-cases/
+  - title: 'Chapter 15: Future Directions and Open Challenges of Agentic AI'
+    url: /part-iii-advanced-implications/chapter-15-future-directions/
+  has_children: true
+  title: 'Part III: Advanced Topics, Safety, and Real-World Implications'
+  url: /part-iii-advanced-implications/

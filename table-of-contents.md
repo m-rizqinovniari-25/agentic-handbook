@@ -8,25 +8,25 @@ permalink: /table-of-contents/
 
 ## Part I: Foundations and Core Concepts of Agentic AI
 
-1. [Chapter 1: Understanding Agentic AI and Artificial Agency]({ "/part-i-foundations/chapter-1-agentic-ai-overview" | relative_url })
-2. [Chapter 2: Historical Evolution of Intelligent Agents]({ "/part-i-foundations/chapter-2-history-evolution" | relative_url })
-3. [Chapter 3: Core Components of Agentic AI Systems]({ "/part-i-foundations/chapter-3-core-components" | relative_url })
-4. [Chapter 4: Agents and Their Operating Environments]({ "/part-i-foundations/chapter-4-agent-environments" | relative_url })
-5. [Chapter 5: Goals, Planning, and Decision-Making in Agentic AI]({ "/part-i-foundations/chapter-5-goals-plans" | relative_url })
+1. [Chapter 1: What Is Agentic AI? Definitions, Scope, and Motivation]({{ "/part-i-foundations/chapter-1-agentic-ai-overview/" | relative_url }})
+2. [Chapter 2: Historical Evolution of Intelligent Agents and Autonomy]({{ "/part-i-foundations/chapter-2-historical-context/" | relative_url }})
+3. [Chapter 3: Core Components of Agentic AI Systems]({{ "/part-i-foundations/chapter-3-core-components/" | relative_url }})
+4. [Chapter 4: Types of Agents and Levels of Autonomy]({{ "/part-i-foundations/chapter-4-agent-types/" | relative_url }})
+5. [Chapter 5: Agentic Reasoning, Goals, and Decision-Making]({{ "/part-i-foundations/chapter-5-agentic-thinking/" | relative_url }})
 
-## Part II: Design, Implementation, and Optimization of Agentic AI
+## Part II: Design and Implementation of Agentic AI Systems
 
-1. [Chapter 6: Architectural Patterns for Agentic AI Systems]({ "/part-ii-design-implementation/chapter-6-agent-architectures" | relative_url })
-2. [Chapter 7: Integrating Large Language Models into Agentic AI]({ "/part-ii-design-implementation/chapter-7-llm-integration" | relative_url })
-3. [Chapter 8: Memory, Learning, and Adaptation in Agents]({ "/part-ii-design-implementation/chapter-8-memory-learning" | relative_url })
-4. [Chapter 9: Tool Use, APIs, and External Interactions]({ "/part-ii-design-implementation/chapter-9-tool-use" | relative_url })
-5. [Chapter 10: Evaluating and Optimizing Agentic AI Systems]({ "/part-ii-design-implementation/chapter-10-evaluation-optimization" | relative_url })
+1. [Chapter 6: Large Language Models as Agentic Foundations]({{ "/part-ii-design-implementation/chapter-6-llm-agents/" | relative_url }})
+2. [Chapter 7: Agent Architectures and System Design Patterns]({{ "/part-ii-design-implementation/chapter-7-agent-architectures/" | relative_url }})
+3. [Chapter 8: Memory, Context, and Long-Term Knowledge in Agents]({{ "/part-ii-design-implementation/chapter-8-memory-context/" | relative_url }})
+4. [Chapter 9: Tool Use, APIs, and Environment Interaction]({{ "/part-ii-design-implementation/chapter-9-tools-environments/" | relative_url }})
+5. [Chapter 10: Evaluating and Debugging Agentic AI Behavior]({{ "/part-ii-design-implementation/chapter-10-evaluation/" | relative_url }})
 
-## Part III: Applications, Ethics, and Future Directions of Agentic AI
+## Part III: Advanced Topics, Safety, and Real-World Implications
 
-1. [Chapter 11: Real-World Applications of Agentic AI]({ "/part-iii-applications-ethics/chapter-11-real-world-applications" | relative_url })
-2. [Chapter 12: Multi-Agent Systems and Collective Intelligence]({ "/part-iii-applications-ethics/chapter-12-multi-agent-systems" | relative_url })
-3. [Chapter 13: Ethics, Safety, and Governance in Agentic AI]({ "/part-iii-applications-ethics/chapter-13-ethics-safety" | relative_url })
-4. [Chapter 14: Human-Agent Collaboration and Interaction]({ "/part-iii-applications-ethics/chapter-14-human-ai-collaboration" | relative_url })
-5. [Chapter 15: Future Directions and Emerging Trends in Agentic AI]({ "/part-iii-applications-ethics/chapter-15-future-trends" | relative_url })
+1. [Chapter 11: Multi-Agent Systems and Collective Intelligence]({{ "/part-iii-advanced-implications/chapter-11-multi-agent/" | relative_url }})
+2. [Chapter 12: Alignment, Control, and Safety in Agentic AI]({{ "/part-iii-advanced-implications/chapter-12-alignment-safety/" | relative_url }})
+3. [Chapter 13: Ethics, Governance, and Responsible Deployment]({{ "/part-iii-advanced-implications/chapter-13-ethics-governance/" | relative_url }})
+4. [Chapter 14: Agentic AI Use Cases Across Industries]({{ "/part-iii-advanced-implications/chapter-14-industry-use-cases/" | relative_url }})
+5. [Chapter 15: Future Directions and Open Challenges of Agentic AI]({{ "/part-iii-advanced-implications/chapter-15-future-directions/" | relative_url }})
 
