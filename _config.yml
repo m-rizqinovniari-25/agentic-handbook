@@ -1,8 +1,8 @@
 # Jekyll Configuration
-title: "Agentic AI: Foundations, Design, and Real-World Applications"
-description: "This comprehensive learning material explores Agentic AI—AI systems capable of autonomous goal setting, decision-making, and action execution within dynamic environments. The material is designed to help learners move from foundational concepts to advanced design and implementation practices, with a strong emphasis on reasoning, planning, tools use, and autonomy.
+title: "Mengenal Lebih Dalam Mengenai Agentic AI: Principles, Design, and Real-World Applications"
+description: "This learning material provides an in-depth and systematic exploration of Agentic AI, focusing on systems capable of autonomous decision-making, goal formulation, planning, and continuous interaction with their environments. The material bridges theoretical foundations with practical implementation, enabling learners to understand not only how agentic systems work, but why they behave the way they do.
 
-Through in-depth chapters, learners will understand how Agentic AI differs from traditional AI systems, how agent architectures are built, and how such systems are deployed, evaluated, and governed in real-world scenarios. The content balances theory, system design, and practical considerations, making it suitable for professionals and advanced learners seeking a deep understanding of modern AI agents."
+Designed for an intermediate audience, the content progressively moves from core concepts and historical roots to advanced design patterns, implementation strategies, evaluation methods, and ethical considerations. By the end of this material, learners will be capable of designing, implementing, and critically evaluating Agentic AI systems in real-world contexts."
 url: "https://example.com"
 baseurl: ""
 
